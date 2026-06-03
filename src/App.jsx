@@ -1,5 +1,5 @@
  import { useState } from "react";
- import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
  function App() {
 
   const [todo, setTodo] = useState("")
